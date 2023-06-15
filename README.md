@@ -1,6 +1,6 @@
 # Writeup CTF Foresty Hacker Class
 
-Haloo...
+WriteUp yang ditulis oleh salah stu mahsiswa telkom university bernama Sigit
 
 ## List Challenges
 
