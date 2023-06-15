@@ -15,5 +15,6 @@ List of Challange I solved :white_check_mark:
 
 ### Week 2
 
-Coming soon...
 ![soon](https://media.giphy.com/media/mguPrVJAnEHIY/giphy.gif)
+
+Coming soon...
