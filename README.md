@@ -2,9 +2,9 @@
 
 Haloo...
 
-## List Challange
+## List Challenges
 
-List of Challange I solved :white_check_mark:
+List of Challenges I solved :white_check_mark:
 
 ### Week 1
 
